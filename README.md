@@ -27,8 +27,6 @@ Libraries Used:
 * sklearn
 * joblib
 * nltk
-* gensim
-* gensim.downloader
 
 
 Files: 
