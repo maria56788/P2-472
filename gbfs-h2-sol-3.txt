@@ -1,0 +1,7 @@
+Initial Board Configuration: JBBCCCJDD..MJAAL.MFFKL.N..KGGN.HH...JBBCCC
+JDD..M
+JAAL.M
+FFKL.N
+..KGGN
+.HH...Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'F: 100', 'G: 100', 'H: 100', 'J: 100', 'K: 100', 'L: 100', 'M: 100', 'N: 100'] 
+ Runtime: 5.2 secondsSearch Path Length: 10777 statesNo solutions found 
