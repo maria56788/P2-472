@@ -1,8 +1,1 @@
-Initial Board Configuration: IJBBCCIJDDL.IJAAL.EEK.L...KFF..GGHH. F0 G6IJBBCC
-IJDDL.
-IJAAL.
-EEK.L.
-..KFF.
-.GGHH.
-F0 G6Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'E: 100', 'F: 0', 'G: 6', 'H: 100', 'I: 100', 'J: 100', 'K: 100', 'L: 100'] 
- Runtime: 0.1 secondsSearch Path Length: 353 statesNo solutions found 
+No solutions found 

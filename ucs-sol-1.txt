@@ -7,7 +7,7 @@ GH.KL.
 GHFFL.
 Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100', 'J: 100', 'K: 100', 'L: 100', 'M: 100'] 
  
-Runtime: 7.6 seconds
+Runtime: 4.3 seconds
 Search Path Length: 8369 states
 Solution Path Length: 3 moves
 Solution Path :['start', 'M down 1', 'A right 1'] 
