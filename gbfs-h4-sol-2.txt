@@ -1,0 +1,36 @@
+Initial Board Configuration: ..I...BBI.K.GHAAKLGHDDKLG..JEEFF.J..
+
+..I...
+BBI.K.
+GHAAKL
+GHDDKL
+G..JEE
+FF.J..
+
+Car fuel available:['A: 100', 'B: 100', 'D: 100', 'E: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100', 'J: 100', 'K: 100', 'L: 100'] 
+ 
+
+Runtime: 12.7 seconds
+Search Path Length: 19823 states
+Solution Path Length: 10 moves
+Solution Path :['H down 1', 'K up 1', 'L up 2', 'D right 2', 'A left 1', 'J up 4', 'D left 2', 'E left 2', 'K down 3', 'A right 3'] 
+
+H down 1         [99] ..I...BBI.K.G.AAKLGHDDKLGH.JEEFF.J..
+K up 1         [99] ..I.K.BBI.K.G.AAKLGHDD.LGH.JEEFF.J..
+L up 2         [98] ..I.KLBBI.KLG.AAK.GHDD..GH.JEEFF.J..
+D right 2         [98] ..I.KLBBI.KLG.AAK.GH..DDGH.JEEFF.J..
+A left 1         [99] ..I.KLBBI.KLGAA.K.GH..DDGH.JEEFF.J..
+J up 4         [96] ..IJKLBBIJKLGAA.K.GH..DDGH..EEFF....
+D left 2         [96] ..IJKLBBIJKLGAA.K.GHDD..GH..EEFF....
+E left 2         [98] ..IJKLBBIJKLGAA.K.GHDD..GHEE..FF....
+K down 3         [96] ..IJ.LBBIJ.LGAA...GHDDK.GHEEK.FF..K.
+A right 3         [96] ..IJ.LBBIJ.LG...AAGHDDK.GHEEK.FF..K.
+
+
+
+..IJ.L
+BBIJ.L
+G...AA
+GHDDK.
+GHEEK.
+FF..K.
