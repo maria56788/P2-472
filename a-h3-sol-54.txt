@@ -1,0 +1,30 @@
+Initial Board Configuration: .BB.M.....M.AA..FFR.....R..P.....P.. P50 R6 M70 B2
+
+.BB.M.
+....M.
+AA..FF
+R.....
+R..P..
+...P..
+P50 R6
+M70 B2
+
+Car fuel available:['A: 100', 'B: 2', 'F: 100', 'M: 7', 'P: 5', 'R: 6'] 
+ 
+
+Runtime: 1.9 seconds
+Search Path Length: 1697 states
+Solution Path Length: 2 moves
+Solution Path :['F left 1', 'A right 4'] 
+
+F left 1         [] .BB.M.....M.AA....R.....R..P.....P..
+A right 4         [96] .BB.M.....M.....AAR.....R..P.....P..
+
+
+
+.BB.M.
+....M.
+....AA
+R.....
+R..P..
+...P..

@@ -48,3 +48,203 @@ BBBMM.....NNAA..FF...R..P..R..P..... R4 B30
 ...BBLMM...L.AASS.R.....R..P.....P.. P50 R6 M70 B2
 BBBMM.....NNAAVV.....R..P..R..P..... R30 B30 P7
 ...BBLMM...LAA..FF...R..P..R..P..... P67 B27 M5
+...BBLMM...LAA..FFK.P.RRK.P.....P... R4 B30
+...BBLMM...LAA..FF.P.RRK.P...K.P.... R4 B30
+MM...L..BB.LAAVV...P.RRK.P...K.P.... R30 B30 P7
+.BB.M.....M.AA..FFR.....R..P.....P.. P50 R6 M70 B2
+BBBMM.....NN.AASS....RRKP....KP..... P50 R6 M70 B2
+....BBDDDMM.AAVV..R.....R..P.....P.. R30 B30 P7
+.BB.M.....M..AASS....R..P..R..P..... P67 B27 M5
+...BBLMM...LAA..FF.P.RRK.P...K.P.... R4 B30
+BBBMM.....NN.AASS....RRKP....KP..... R30 B30 P7
+....BBDDDMM.AAVV.....R..P..R..P..... P50 R6 M70 B2
+MM...L..BB.LAAVV.....R..P..R..P..... R4 B30
+....BBDDDMM.AA..FF.P.RRK.P...K.P.... R30 B30 P7
+MM...L..BB.LAAVV...P.RRK.P...K.P.... R30 B30 P7
+.BB.M.....M.AA..FF...R..P..R..P..... P50 R6 M70 B2
+....BBDDDMM..AASS.R.....R..P.....P.. P67 B27 M5
+MM...L..BB.LAA..FFR.....R..P.....P.. P50 R6 M70 B2
+....BBDDDMM.AAVV..K.P.RRK.P.....P... P67 B27 M5
+MM...L..BB.LAAVV..K.P.RRK.P.....P... P50 R6 M70 B2
+....BBDDDMM.AAVV..K.P.RRK.P.....P... P67 B27 M5
+.BB.M.....M..AASS....RRKP....KP..... P50 R6 M70 B2
+...BBLMM...LAAVV..K.P.RRK.P.....P... P67 B27 M5
+.BB.M.....M..AASS.R.....R..P.....P.. P50 R6 M70 B2
+.BB.M.....M..AASS..P.RRK.P...K.P.... P50 R6 M70 B2
+MM...L..BB.L.AASS....RRKP....KP..... R4 B30
+...BBLMM...LAA..FF.P.RRK.P...K.P.... P50 R6 M70 B2
+BBBMM.....NN.AASS.K.P.RRK.P.....P... P50 R6 M70 B2
+...BBLMM...L.AASS....R..P..R..P..... P67 B27 M5
+.BB.M.....M..AASS..P.RRK.P...K.P.... P67 B27 M5
+.BB.M.....M..AASS....RRKP....KP..... P67 B27 M5
+.BB.M.....M..AASS....R..P..R..P..... R4 B30
+BBBMM.....NN.AASS....RRKP....KP..... R4 B30
+....BBDDDMM..AASS....R..P..R..P..... R4 B30
+...BBLMM...LAA..FF...RRKP....KP..... P50 R6 M70 B2
+MM...L..BB.L.AASS.K.P.RRK.P.....P... R4 B30
+...BBLMM...LAAVV..R.....R..P.....P.. P67 B27 M5
+.BB.M.....M.AAVV...P.RRK.P...K.P.... R30 B30 P7
+MM...L..BB.L.AASS....R..P..R..P..... R30 B30 P7
+.BB.M.....M..AASS..P.RRK.P...K.P.... P50 R6 M70 B2
+...BBLMM...L.AASS....RRKP....KP..... P50 R6 M70 B2
+MM...L..BB.L.AASS....RRKP....KP..... R4 B30
+BBBMM.....NNAAVV.....R..P..R..P..... R4 B30
+BBBMM.....NNAAVV.....RRKP....KP..... R4 B30
+.BB.M.....M..AASS.K.P.RRK.P.....P... P50 R6 M70 B2
+....BBDDDMM..AASS....RRKP....KP..... R30 B30 P7
+.BB.M.....M..AASS..P.RRK.P...K.P.... P67 B27 M5
+...BBLMM...LAAVV.....R..P..R..P..... P50 R6 M70 B2
+...BBLMM...LAA..FF.P.RRK.P...K.P.... R30 B30 P7
+....BBDDDMM..AASS....R..P..R..P..... R30 B30 P7
+...BBLMM...L.AASS.R.....R..P.....P.. R30 B30 P7
+BBBMM.....NNAA..FF...R..P..R..P..... R4 B30
+.BB.M.....M.AA..FF...RRKP....KP..... R30 B30 P7
+MM...L..BB.LAAVV.....RRKP....KP..... R4 B30
+BBBMM.....NNAAVV.....RRKP....KP..... R4 B30
+.BB.M.....M..AASS..P.RRK.P...K.P.... R4 B30
+MM...L..BB.LAAVV.....R..P..R..P..... R30 B30 P7
+MM...L..BB.LAA..FFR.....R..P.....P.. P67 B27 M5
+MM...L..BB.LAAVV..R.....R..P.....P.. R4 B30
+.BB.M.....M.AAVV.....RRKP....KP..... P67 B27 M5
+BBBMM.....NNAAVV.....RRKP....KP..... P67 B27 M5
+...BBLMM...L.AASS.R.....R..P.....P.. R4 B30
+...BBLMM...L.AASS....RRKP....KP..... P50 R6 M70 B2
+MM...L..BB.L.AASS....R..P..R..P..... R4 B30
+....BBDDDMM..AASS.K.P.RRK.P.....P... P50 R6 M70 B2
+.BB.M.....M.AA..FF...RRKP....KP..... R4 B30
+BBBMM.....NNAA..FF.P.RRK.P...K.P.... P50 R6 M70 B2
+.BB.M.....M.AA..FF...R..P..R..P..... R4 B30
+.BB.M.....M.AAVV...P.RRK.P...K.P.... R4 B30
+MM...L..BB.LAA..FF.P.RRK.P...K.P.... R4 B30
+....BBDDDMM..AASS.R.....R..P.....P.. R30 B30 P7
+MM...L..BB.LAAVV.....R..P..R..P..... P67 B27 M5
+.BB.M.....M.AA..FF...R..P..R..P..... R30 B30 P7
+...BBLMM...LAAVV..R.....R..P.....P.. P67 B27 M5
+....BBDDDMM..AASS..P.RRK.P...K.P.... P50 R6 M70 B2
+...BBLMM...LAA..FFK.P.RRK.P.....P... P67 B27 M5
+...BBLMM...LAA..FF.P.RRK.P...K.P.... P67 B27 M5
+BBBMM.....NNAA..FF.P.RRK.P...K.P.... R4 B30
+BBBMM.....NNAAVV.....R..P..R..P..... P67 B27 M5
+...BBLMM...LAA..FF...R..P..R..P..... P50 R6 M70 B2
+MM...L..BB.LAA..FF.P.RRK.P...K.P.... R4 B30
+MM...L..BB.LAAVV.....R..P..R..P..... P50 R6 M70 B2
+....BBDDDMM..AASS....RRKP....KP..... R30 B30 P7
+MM...L..BB.LAA..FFR.....R..P.....P.. R30 B30 P7
+...BBLMM...L.AASS.R.....R..P.....P.. R4 B30
+BBBMM.....NNAA..FFK.P.RRK.P.....P... P50 R6 M70 B2
+MM...L..BB.LAAVV..R.....R..P.....P.. P50 R6 M70 B2
+...BBLMM...LAAVV..K.P.RRK.P.....P... R4 B30
+BBBMM.....NNAAVV.....R..P..R..P..... R4 B30
+MM...L..BB.LAA..FF...R..P..R..P..... R4 B30
+MM...L..BB.LAA..FFK.P.RRK.P.....P... P50 R6 M70 B2
+.BB.M.....M.AAVV..R.....R..P.....P.. R30 B30 P7
+...BBLMM...L.AASS.R.....R..P.....P.. P67 B27 M5
+BBBMM.....NNAAVV...P.RRK.P...K.P.... R4 B30
+BBBMM.....NN.AASS....R..P..R..P..... R30 B30 P7
+...BBLMM...L.AASS....RRKP....KP..... P67 B27 M5
+BBBMM.....NN.AASS....R..P..R..P..... R30 B30 P7
+MM...L..BB.LAA..FF...RRKP....KP..... R4 B30
+BBBMM.....NN.AASS.R.....R..P.....P.. R30 B30 P7
+BBBMM.....NNAA..FF.P.RRK.P...K.P.... P50 R6 M70 B2
+...BBLMM...LAA..FFK.P.RRK.P.....P... R4 B30
+.BB.M.....M..AASS....R..P..R..P..... P50 R6 M70 B2
+...BBLMM...L.AASS.R.....R..P.....P.. R4 B30
+MM...L..BB.L.AASS.R.....R..P.....P.. P67 B27 M5
+...BBLMM...LAA..FF...R..P..R..P..... P50 R6 M70 B2
+BBBMM.....NN.AASS....R..P..R..P..... R30 B30 P7
+....BBDDDMM.AAVV.....RRKP....KP..... P67 B27 M5
+BBBMM.....NN.AASS....RRKP....KP..... R4 B30
+.BB.M.....M.AAVV.....R..P..R..P..... P67 B27 M5
+BBBMM.....NNAAVV.....RRKP....KP..... R4 B30
+BBBMM.....NN.AASS....RRKP....KP..... P67 B27 M5
+.BB.M.....M.AA..FFK.P.RRK.P.....P... P50 R6 M70 B2
+.BB.M.....M..AASS....R..P..R..P..... P50 R6 M70 B2
+MM...L..BB.LAA..FF.P.RRK.P...K.P.... R4 B30
+...BBLMM...LAA..FF...R..P..R..P..... R4 B30
+BBBMM.....NNAA..FF...RRKP....KP..... R30 B30 P7
+....BBDDDMM..AASS....R..P..R..P..... R30 B30 P7
+...BBLMM...LAAVV.....RRKP....KP..... R30 B30 P7
+....BBDDDMM.AA..FFR.....R..P.....P.. R30 B30 P7
+....BBDDDMM.AAVV.....RRKP....KP..... R4 B30
+BBBMM.....NNAAVV..R.....R..P.....P.. P50 R6 M70 B2
+....BBDDDMM.AA..FF.P.RRK.P...K.P.... R30 B30 P7
+.BB.M.....M.AAVV.....RRKP....KP..... P50 R6 M70 B2
+MM...L..BB.L.AASS.R.....R..P.....P.. P50 R6 M70 B2
+...BBLMM...LAAVV.....RRKP....KP..... P50 R6 M70 B2
+...BBLMM...LAAVV..R.....R..P.....P.. R30 B30 P7
+.BB.M.....M.AAVV...P.RRK.P...K.P.... P67 B27 M5
+.BB.M.....M..AASS.R.....R..P.....P.. R30 B30 P7
+.BB.M.....M..AASS.R.....R..P.....P.. P50 R6 M70 B2
+BBBMM.....NNAAVV.....RRKP....KP..... P67 B27 M5
+...BBLMM...LAA..FF...R..P..R..P..... P67 B27 M5
+MM...L..BB.L.AASS.K.P.RRK.P.....P... R30 B30 P7
+....BBDDDMM.AAVV..R.....R..P.....P.. R4 B30
+MM...L..BB.L.AASS....R..P..R..P..... R4 B30
+...BBLMM...LAA..FF...R..P..R..P..... P50 R6 M70 B2
+....BBDDDMM.AA..FFR.....R..P.....P.. R30 B30 P7
+MM...L..BB.LAAVV.....RRKP....KP..... R30 B30 P7
+....BBDDDMM..AASS..P.RRK.P...K.P.... R30 B30 P7
+.BB.M.....M.AA..FF...R..P..R..P..... P67 B27 M5
+BBBMM.....NNAAVV..R.....R..P.....P.. P50 R6 M70 B2
+...BBLMM...L.AASS.R.....R..P.....P.. P50 R6 M70 B2
+BBBMM.....NN.AASS....RRKP....KP..... R4 B30
+...BBLMM...LAA..FF.P.RRK.P...K.P.... P67 B27 M5
+BBBMM.....NNAAVV.....RRKP....KP..... R4 B30
+.BB.M.....M..AASS.K.P.RRK.P.....P... R4 B30
+...BBLMM...LAA..FFK.P.RRK.P.....P... R30 B30 P7
+.BB.M.....M..AASS.K.P.RRK.P.....P... R30 B30 P7
+.BB.M.....M.AAVV..R.....R..P.....P.. R4 B30
+MM...L..BB.LAAVV..R.....R..P.....P.. R30 B30 P7
+BBBMM.....NN.AASS.R.....R..P.....P.. R4 B30
+....BBDDDMM..AASS.K.P.RRK.P.....P... P50 R6 M70 B2
+...BBLMM...L.AASS.R.....R..P.....P.. P50 R6 M70 B2
+BBBMM.....NNAAVV...P.RRK.P...K.P.... P50 R6 M70 B2
+MM...L..BB.L.AASS.R.....R..P.....P.. P50 R6 M70 B2
+.BB.M.....M.AA..FFK.P.RRK.P.....P... P67 B27 M5
+MM...L..BB.LAA..FF...RRKP....KP..... P50 R6 M70 B2
+MM...L..BB.L.AASS..P.RRK.P...K.P.... P67 B27 M5
+....BBDDDMM..AASS.R.....R..P.....P.. R30 B30 P7
+MM...L..BB.L.AASS....RRKP....KP..... R30 B30 P7
+BBBMM.....NNAAVV..R.....R..P.....P.. R4 B30
+...BBLMM...L.AASS.R.....R..P.....P.. R30 B30 P7
+.BB.M.....M.AAVV..R.....R..P.....P.. R30 B30 P7
+....BBDDDMM.AA..FF.P.RRK.P...K.P.... P50 R6 M70 B2
+BBBMM.....NNAA..FF...R..P..R..P..... R4 B30
+....BBDDDMM..AASS..P.RRK.P...K.P.... R30 B30 P7
+...BBLMM...L.AASS....RRKP....KP..... P50 R6 M70 B2
+.BB.M.....M..AASS..P.RRK.P...K.P.... R30 B30 P7
+BBBMM.....NN.AASS.R.....R..P.....P.. P50 R6 M70 B2
+.BB.M.....M..AASS....RRKP....KP..... P67 B27 M5
+...BBLMM...LAA..FFK.P.RRK.P.....P... P50 R6 M70 B2
+BBBMM.....NNAA..FF...R..P..R..P..... P50 R6 M70 B2
+....BBDDDMM.AAVV..K.P.RRK.P.....P... P50 R6 M70 B2
+BBBMM.....NN.AASS....RRKP....KP..... P50 R6 M70 B2
+.BB.M.....M.AA..FF.P.RRK.P...K.P.... R30 B30 P7
+.BB.M.....M..AASS....RRKP....KP..... P67 B27 M5
+BBBMM.....NNAAVV...P.RRK.P...K.P.... P50 R6 M70 B2
+MM...L..BB.L.AASS..P.RRK.P...K.P.... R30 B30 P7
+....BBDDDMM.AAVV..R.....R..P.....P.. P50 R6 M70 B2
+...BBLMM...LAA..FF...RRKP....KP..... R4 B30
+....BBDDDMM.AA..FFR.....R..P.....P.. R30 B30 P7
+...BBLMM...LAAVV.....RRKP....KP..... R4 B30
+.BB.M.....M.AAVV..K.P.RRK.P.....P... R30 B30 P7
+BBBMM.....NNAAVV...P.RRK.P...K.P.... R4 B30
+...BBLMM...LAAVV...P.RRK.P...K.P.... R30 B30 P7
+BBBMM.....NNAA..FFK.P.RRK.P.....P... R4 B30
+...BBLMM...L.AASS.K.P.RRK.P.....P... R4 B30
+...BBLMM...LAAVV.....RRKP....KP..... R4 B30
+...BBLMM...L.AASS....RRKP....KP..... P50 R6 M70 B2
+MM...L..BB.L.AASS.R.....R..P.....P.. R30 B30 P7
+.BB.M.....M.AAVV...P.RRK.P...K.P.... P67 B27 M5
+BBBMM.....NNAAVV..K.P.RRK.P.....P... R4 B30
+...BBLMM...L.AASS..P.RRK.P...K.P.... R30 B30 P7
+.BB.M.....M.AA..FF...R..P..R..P..... P50 R6 M70 B2
+.BB.M.....M.AA..FFR.....R..P.....P.. P67 B27 M5
+...BBLMM...LAAVV...P.RRK.P...K.P.... P50 R6 M70 B2
+.BB.M.....M..AASS..P.RRK.P...K.P.... R4 B30
+MM...L..BB.LAA..FF.P.RRK.P...K.P.... R30 B30 P7
+...BBLMM...L.AASS.K.P.RRK.P.....P... P67 B27 M5
+BBBMM.....NNAAVV..R.....R..P.....P.. R4 B30
+MM...L..BB.LAAVV.....RRKP....KP..... R4 B30
+.BB.M.....M.AAVV..K.P.RRK.P.....P... R4 B30
+BBBMM.....NNAA..FF.P.RRK.P...K.P.... R30 B30 P7

@@ -1,58 +1,29 @@
-Initial Board Configuration: BB.G.HE..G.HEAAG.I..FCCIDDF..I..F...
+Initial Board Configuration: ...BBLMM...LAAVV...P.RRK.P...K.P.... R4 B30
 
-BB.G.H
-E..G.H
-EAAG.I
-..FCCI
-DDF..I
-..F...
+...BBL
+MM...L
+AAVV..
+.P.RRK
+.P...K
+.P....
+R4 B30
 
-Car fuel available:['A: 100', 'B: 100', 'C: 100', 'D: 100', 'E: 100', 'F: 100', 'G: 100', 'H: 100', 'I: 100'] 
+Car fuel available:['A: 100', 'B: 3', 'K: 100', 'L: 100', 'M: 100', 'P: 100', 'R: 4', 'V: 100'] 
  
 
-Runtime: 0.5 seconds
-Search Path Length: 1134 states
-Solution Path Length: 32 moves
-Solution Path :['B right 1', 'E up 1', 'I down 1', 'A left 1', 'F up 2', 'D right 3', 'F down 2', 'A right 1', 'E down 4', 'A left 1', 'B left 1', 'F up 3', 'C left 3', 'F down 3', 'G down 1', 'H down 1', 'B right 4', 'F up 3', 'G up 1', 'C right 3', 'F down 3', 'A right 1', 'E up 4', 'A left 1', 'F up 3', 'C left 3', 'D left 3', 'F down 3', 'G down 3', 'B left 1', 'H up 1', 'A right 4'] 
+Runtime: 1.8 seconds
+Search Path Length: 2626 states
+Solution Path Length: 2 moves
+Solution Path :['V right 1', 'A right 4'] 
 
-B right 1         [99] .BBG.HE..G.HEAAG.I..FCCIDDF..I..F...
-E up 1         [99] EBBG.HE..G.H.AAG.I..FCCIDDF..I..F...
-I down 1         [99] EBBG.HE..G.H.AAG....FCCIDDF..I..F..I
-A left 1         [99] EBBG.HE..G.HAA.G....FCCIDDF..I..F..I
-F up 2         [98] EBBG.HE.FG.HAAFG....FCCIDD...I.....I
-D right 3         [97] EBBG.HE.FG.HAAFG....FCCI...DDI.....I
-F down 2         [96] EBBG.HE..G.HAA.G....FCCI..FDDI..F..I
-A right 1         [98] EBBG.HE..G.H.AAG....FCCI..FDDI..F..I
-E down 4         [95] .BBG.H...G.H.AAG....FCCIE.FDDIE.F..I
-A left 1         [97] .BBG.H...G.HAA.G....FCCIE.FDDIE.F..I
-B left 1         [98] BB.G.H...G.HAA.G....FCCIE.FDDIE.F..I
-F up 3         [93] BBFG.H..FG.HAAFG.....CCIE..DDIE....I
-C left 3         [97] BBFG.H..FG.HAAFG..CC...IE..DDIE....I
-F down 3         [90] BB.G.H...G.HAA.G..CCF..IE.FDDIE.F..I
-G down 1         [99] BB...H...G.HAA.G..CCFG.IE.FDDIE.F..I
-H down 1         [99] BB.......G.HAA.G.HCCFG.IE.FDDIE.F..I
-B right 4         [94] ....BB...G.HAA.G.HCCFG.IE.FDDIE.F..I
-F up 3         [87] ..F.BB..FG.HAAFG.HCC.G.IE..DDIE....I
-G up 1         [98] ..FGBB..FG.HAAFG.HCC...IE..DDIE....I
-C right 3         [94] ..FGBB..FG.HAAFG.H...CCIE..DDIE....I
-F down 3         [84] ...GBB...G.HAA.G.H..FCCIE.FDDIE.F..I
-A right 1         [96] ...GBB...G.H.AAG.H..FCCIE.FDDIE.F..I
-E up 4         [91] E..GBBE..G.H.AAG.H..FCCI..FDDI..F..I
-A left 1         [95] E..GBBE..G.HAA.G.H..FCCI..FDDI..F..I
-F up 3         [81] E.FGBBE.FG.HAAFG.H...CCI...DDI.....I
-C left 3         [91] E.FGBBE.FG.HAAFG.HCC...I...DDI.....I
-D left 3         [94] E.FGBBE.FG.HAAFG.HCC...IDD...I.....I
-F down 3         [78] E..GBBE..G.HAA.G.HCCF..IDDF..I..F..I
-G down 3         [95] E...BBE....HAA...HCCFG.IDDFG.I..FG.I
-B left 1         [93] E..BB.E....HAA...HCCFG.IDDFG.I..FG.I
-H up 1         [98] E..BBHE....HAA....CCFG.IDDFG.I..FG.I
-A right 4         [91] E..BBHE....H....AACCFG.IDDFG.I..FG.I
+V right 1         [] ...BBLMM...LAA.....P.RRK.P...K.P....
+A right 4         [96] ...BBLMM...L....AA.P.RRK.P...K.P....
 
 
 
-E..BBH
-E....H
+...BBL
+MM...L
 ....AA
-CCFG.I
-DDFG.I
-..FG.I
+.P.RRK
+.P...K
+.P....

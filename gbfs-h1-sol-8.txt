@@ -1,0 +1,31 @@
+Initial Board Configuration: .BB.M.....MM.AASS..P.RRK.P...K.P.... R4 B30
+
+.BB.M.
+....MM
+.AASS.
+.P.RRK
+.P...K
+.P....
+R4 B30
+
+Car fuel available:['A: 100', 'B: 3', 'K: 100', 'M: 100', 'P: 100', 'R: 4', 'S: 100'] 
+ 
+
+Runtime: 1.5 seconds
+Search Path Length: 1391 states
+Solution Path Length: 4 moves
+Solution Path :['R left 1', 'M down 3', 'S right 1', 'A right 3'] 
+
+R left 1         [3] .BB.M.....M..AASM..PRR.K.P...K.P....
+M down 3         [97] .BB..........AASS..PRRMK.P..MK.P..M.
+S right 1         [] .BB..........AA....PRRMK.P..MK.P..M.
+A right 3         [97] .BB.............AA.PRRMK.P..MK.P..M.
+
+
+
+.BB...
+......
+....AA
+.PRRMK
+.P..MK
+.P..M.
